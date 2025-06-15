@@ -1,0 +1,47 @@
+{
+  "MNR23CS001": {
+    "regno": "MNR23CS001",
+    "name": "Abishek VS",
+    "results": [
+      { "name": "Database Management Systems", "grade": "B+" },
+      { "name": "Operating Systems", "grade": "A" },
+      { "name": "Digital Lab", "grade": "A+" },
+      { "name": "OS Lab", "grade": "A+" },
+      { "name": "Computer Organization", "grade": "C" },
+      { "name": "Graph Theory", "grade": "P" },
+      { "name": "Design Engineering", "grade": "D" },
+      { "name": "Constitution of India", "grade": "P" }
+    ],
+    "sgpa": "7.52"
+  },
+  "MNR23CS007": {
+    "regno": "MNR23CS007",
+    "name": "Anandhu p Shaji",
+    "results": [
+      { "name": "Database Management Systems", "grade": "A" },
+      { "name": "Operating Systems", "grade": "B+" },
+      { "name": "Digital Lab", "grade": "A" },
+      { "name": "OS Lab", "grade": "A+" },
+      { "name": "Computer Organization", "grade": "B" },
+      { "name": "Graph Theory", "grade": "C" },
+      { "name": "Design Engineering", "grade": "B+" },
+      { "name": "Constitution of India", "grade": "A" }
+    ],
+    "sgpa": "8.00"
+  },
+    "MNR23CS003": {
+        "regno": "MNR23CS003",
+        "name": "Afin  Stephen",
+        "results": [
+        { "name": "Database Management Systems", "grade": "A" },
+        { "name": "Operating Systems", "grade": "B+" },
+        { "name": "Digital Lab", "grade": "A" },
+        { "name": "OS Lab", "grade": "A+" },
+        { "name": "Computer Organization", "grade": "B" },
+        { "name": "Graph Theory", "grade": "C" },
+        { "name": "Design Engineering", "grade": "B+" },
+        { "name": "Constitution of India", "grade": "A" }
+        ],
+        "sgpa": "8.00"
+    }
+}
